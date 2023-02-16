@@ -3,6 +3,6 @@
 ## Alexandre Heigi
 
 
-Projeto Unialfa, Html, Php. Em sala de aula - eCommerce
+Projeto Unialfa, Html, Css, SQL, Php. Em sala de aula - eCommerce
 
 editado...
